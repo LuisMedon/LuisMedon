@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LuisMedon
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning <h1><a href="https://laravel.com">Laravel</a></h1>
+- 🌱 I’m currently learning <a href="https://laravel.com">Laravel</a>
 - 📫 How to reach me <a href="mailto:luismedon@icloud.com">Luis Medon</a>
