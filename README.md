@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LuisMedon.
 - 👀 I’m interested in Computer Programming.
-- 🌱 I’m currently learning <a href="https://laravel.com" target="_blank">Laravel</a>, <a href="php.net" target="_blank">PHP</a> and <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">C#</a>.
+- 🌱 I’m currently learning <a href="https://laravel.com" target="_blank">Laravel</a>, <a href="https://php.net" target="_blank">PHP</a> and <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">C#</a>.
 - 📫 How to reach me <a href="mailto:luismedon@icloud.com">Luis Medon</a>.
